@@ -1,9 +1,9 @@
 # EasyFuse: Easy-to-Learn Visible and Infrared Fusion Framework based on Unpaired Set
 
-## Decription of ADD Sequence Dataset
+## Description of ADD Sequence Dataset
 
-* Dataset includes visible and infrared image pair set.
-* Dataset consists of a total of 8 sequences(4 sequences at day and 4 sequecnes at night)
+* Dataset includes visible and infrared image pair sets.
+* Dataset consists of a total of 8 sequences(4 sequences at day and 4 sequences at night)
 * Paired images are aligned at the pixel level by homography and are synchronized.
 
 | Sequence #1 | Sequence #2 |
@@ -21,3 +21,15 @@
 | Sequence #7 | Sequence #8 | 
 |:---:|:---:|
 | <video src="https://user-images.githubusercontent.com/31626361/218351199-8269b685-488b-48b5-99cc-945e6ca0e07f.mp4"> | <video src="https://user-images.githubusercontent.com/31626361/218351254-988fa744-3113-466f-80e3-b4753b7dd927.mp4"> |
+
+***
+If this dataset is helpful to you, please cite it as:
+```
+@article{easyfuse2023,
+  title={EasyFuse: Easy-to-Learn Visible and Infrared Fusion Framework based on Unpaired Set},
+  author={Seongyong Ahn and Inwook Shim and Jihong Min and Kuk-Jin Yoon},
+  journal={Pattern Recognition Letters},
+  year={2023},
+  publisher={Elesvier}
+}
+```
