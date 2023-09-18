@@ -30,6 +30,8 @@ If this dataset is helpful to you, please cite it as:
   author={Seongyong Ahn and Inwook Shim and Jihong Min and Kuk-Jin Yoon},
   journal={Pattern Recognition Letters},
   year={2023},
+  vol={174},
+  pages={99--105},
   publisher={Elesvier}
 }
 ```
